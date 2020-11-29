@@ -1,0 +1,59 @@
+#h1{
+	text-align: center;
+}
+body{
+	font:30px 華康兒風體W4,微軟正黑體, sans-serif;
+	position:relative;
+	text-align:left;
+	background-image:url(https://images.plurk.com/71lm1wqOHq07pY0FzmbDdV.jpg)}
+#banner{ 
+	
+	font:18px 華康兒風體W4,微軟正黑體, sans-serif;
+	position: relative;
+	top:5px;
+	width:100%;
+	height:60px;
+	text-align:center;
+	background-color:#FFE4CA;
+	background: pink;
+	border-radius:10px;
+	padding:0.5em 0;}	
+
+.grid{
+	display:flex;
+	flex-wrap: wrap;
+	width:400px;
+	height:400px;
+	background-color:#ECE2D0;
+	position:relative;
+	margin: 0 auto;
+	border-radius: 8px;
+}
+.grid div{
+	left:10px;
+	top:5px;
+	margin:2px;
+	position:relative;
+	width:90px;
+	height:90px;
+	background-color:#FFD700;
+	font-size: 40px;
+	text-align: center;
+	font-weight: bold;
+	font-family: UD Digi Kyokasho NP-B, 微軟正黑體, sans-serif;
+	border-style: solid; 
+	border-width:0.5px;
+	border-radius: 8px;
+}
+
+
+
+
+#result {
+	font-family: 華康兒風體W4, 微軟正黑體, sans-serif;
+	position:relative;
+	text-align:center;
+	font-size:100px; 
+	top: 50px;
+	
+}
